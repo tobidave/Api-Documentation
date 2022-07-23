@@ -1,0 +1,37 @@
+[
+  {
+    "category": "Music",
+    "id": "622a1c387cc59eab6f950b32",
+    "question": "Which band includes 'Hide'?",
+    "type": "Multiple Choice",
+    "difficulty": "hard"
+  },
+  {
+    "category": "History",
+    "id": "622a1c347cc59eab6f94f9e5",
+    "question": "Who was the 30th president of the USA, in term during the period 1923-1929?",
+    "type": "Multiple Choice",
+    "difficulty": "hard"
+  },
+  {
+    "category": "Science",
+    "id": "622a1c3a7cc59eab6f950fe2",
+    "question": "Which plant is known for attracting hummingbirds?",
+    "type": "Multiple Choice",
+    "difficulty": "hard"
+  },
+  {
+    "category": "Science",
+    "id": "622a1c3a7cc59eab6f951015",
+    "question": "What name is given to animals which only eat plants?",
+    "type": "Multiple Choice",
+    "difficulty": "easy"
+  },
+  {
+    "category": "Science",
+    "id": "6242cb75d543524f1b19c930",
+    "question": "What is the word for a group of pheasants?",
+    "type": "Multiple Choice",
+    "difficulty": "hard"
+  }
+]
